@@ -1,8 +1,8 @@
-\# Personal-Assignment-VR
+# Personal-Assignment-VR
 
 
 
-\## Project Overview
+## Project Overview
 
 
 
@@ -10,7 +10,7 @@ This is the first personal assignment where I demonstrate my unity VR project sh
 
 
 
-\## Features
+## Features
 
 
 
@@ -48,7 +48,7 @@ git clone https://github.com/KurdischGoat/Personal-Assignment-1.git
 
 
 
-\# Known issues
+# Known issues
 
 \- The teleportation area is just a square so you can escape the place at the corners of the map
 
