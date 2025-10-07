@@ -48,5 +48,5 @@ git clone https://github.com/KurdischGoat/Personal-Assignment-1.git
 
 - The bags look ugly when you put them on the crate and bench sockets
 
-\- If you grab an object and go forward with it, it goes extremely far away from you and if you go backwards it goes extremely near to you
+- If you grab an object and go forward with it, it goes extremely far away from you and if you go backwards it goes extremely near to you
 
